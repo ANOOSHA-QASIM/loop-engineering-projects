@@ -1,0 +1,10 @@
+"oc/hy3-free" is not a model this version of Claude Code recognizes, so auto-compact will keep this session within 200k tokens (the context window it assumes). If the model accepts more, append [1m] to the model name for 1M, or set CLAUDE_CODE_MAX_CONTEXT_TOKENS to its real window; to make it recognized, map it in the modelOverrides setting or update Claude Code; CLAUDE_CODE_DISABLE_UNKNOWN_MODEL_WINDOW_ENFORCEMENT=1 restores the previous wait-for-the-API behavior.
+Hogaya. Summary:
+
+**Pattern mila:** `progress.md` mein NEEDS HUMAN ka ek hi generic reason **3 baar consecutive repeat** hua (2026-08-25, 26, 27) — exact same wording: *"TODO complex tha (business logic decision chahiye tha)"*. Har baar specific TODO/file naam ya required decision nahi likha gaya, isliye 3 din tak wahi stuck state ban gaya.
+
+**Suggestion likhi gayi:** `E:\loop_engineering_projects\dreaming-loop\suggestion.md` mein — pattern, repeat count (3 baar), aur `skill.md` ke liye do chote rule proposals:
+1. NEEDS HUMAN likhte waqt generic reason ke bajaye exact TODO + specific decision likho.
+2. Agar koi reason 2+ consecutive din repeat ho (stuck), to naya generic pass na chalaao — explicit "STUCK" escalate karo.
+
+Maine **koi bhi file khud nahi badli** — na `progress.md`, na `skill.md` (dono unchanged hain), sirf `suggestion.md` likhi jo aapne mangi thi.

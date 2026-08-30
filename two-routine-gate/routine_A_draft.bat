@@ -1,0 +1,2 @@
+cd /d E:\loop_engineering_projects\two-routine-gate
+claude -p "old_report.txt file dekho. Ek draft_plan.md file banao jisme likha ho: 'Plan: old_report.txt ko delete karna hai. Wajah: purani ho chuki hai. Agar aap agree karein to approved.txt naam ki file banayein, phir routine B chalayein.' Sirf plan likho, koi file delete mat karo." --dangerously-skip-permissions >> gate_log.txt 2>&1

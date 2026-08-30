@@ -1,0 +1,23 @@
+"oc/hy3-free" is not a model this version of Claude Code recognizes, so auto-compact will keep this session within 200k tokens (the context window it assumes). If the model accepts more, append [1m] to the model name for 1M, or set CLAUDE_CODE_MAX_CONTEXT_TOKENS to its real window; to make it recognized, map it in the modelOverrides setting or update Claude Code; CLAUDE_CODE_DISABLE_UNKNOWN_MODEL_WINDOW_ENFORCEMENT=1 restores the previous wait-for-the-API behavior.
+Kar diya. 
+
+**Aaj ki date:** 2026-08-30
+
+**Line:** System check ho gaya, sab theek hai.
+
+Summary `summary.md` file mein likh diya. File pehle exist nahi karti thi, isliye nayi banayi aur entry neeche add ki. Purani entries ka koi risk nahi tha kyunki file nayi thi, lekin aage se koi purani entries hoti toh unhe hataye bina hi neeche append karta.
+"oc/hy3-free" is not a model this version of Claude Code recognizes, so auto-compact will keep this session within 200k tokens (the context window it assumes). If the model accepts more, append [1m] to the model name for 1M, or set CLAUDE_CODE_MAX_CONTEXT_TOKENS to its real window; to make it recognized, map it in the modelOverrides setting or update Claude Code; CLAUDE_CODE_DISABLE_UNKNOWN_MODEL_WINDOW_ENFORCEMENT=1 restores the previous wait-for-the-API behavior.
+Ho gaya.**Aaj ki date:** 2026-08-30
+
+**Ek line:** System check ho gaya, sab theek hai.
+
+Entry `summary.md` ke neeche add kar di gayi hai, purani entries intact hain.
+"oc/hy3-free" is not a model this version of Claude Code recognizes, so auto-compact will keep this session within 200k tokens (the context window it assumes). If the model accepts more, append [1m] to the model name for 1M, or set CLAUDE_CODE_MAX_CONTEXT_TOKENS to its real window; to make it recognized, map it in the modelOverrides setting or update Claude Code; CLAUDE_CODE_DISABLE_UNKNOWN_MODEL_WINDOW_ENFORCEMENT=1 restores the previous wait-for-the-API behavior.
+Ho gaya. Aaj ki date **2026-08-30** hai aur `summary.md` mein nayi entry neeche add kar di gayi, purani entries waise hi rakhi hain.
+"oc/hy3-free" is not a model this version of Claude Code recognizes, so auto-compact will keep this session within 200k tokens (the context window it assumes). If the model accepts more, append [1m] to the model name for 1M, or set CLAUDE_CODE_MAX_CONTEXT_TOKENS to its real window; to make it recognized, map it in the modelOverrides setting or update Claude Code; CLAUDE_CODE_DISABLE_UNKNOWN_MODEL_WINDOW_ENFORCEMENT=1 restores the previous wait-for-the-API behavior.
+Ho gaya.
+
+**Aaj ki date:** 2026-08-30
+
+**Update:** `summary.md` mein nayi entry neeche add kar di — purani 3 entries waise hi rahi, ab4th line add hui:- 2026-08-30: System check ho gaya, sab theek hai.
+FAIL: folder nahi mila, path check karo 
